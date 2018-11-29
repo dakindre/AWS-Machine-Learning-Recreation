@@ -16,7 +16,7 @@ The below implementation is a recreation of a process done in AWS and only shows
 
 The following diagram shows the general architecture used to create the models. The following is a more descriptive overview"
 
-1. The mock data was created by a jupyter script running on an EC2 [script] ()
+1. The mock data was created by a jupyter script running on an EC2 [script] (generateData.ipynb)
 2. Using the AWS SDK Boto3 the data was sent to S3
 3. The AWS Machine Learning Service created a model based on the data provided in S3 
 4. The output of future batch data is sent to S3 for storage
