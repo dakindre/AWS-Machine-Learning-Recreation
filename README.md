@@ -15,6 +15,8 @@ The below implementation is a recreation of a process done in AWS and only shows
 ## Architecture
 
 The following diagram shows the general architecture used to create the models
+
+
 ![alt text](/Images/GeneratingSalesMockMLFlow.png)
 
 
