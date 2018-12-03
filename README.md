@@ -36,15 +36,5 @@ VDP Views | Unique Visitors | Lead Volume | Visitor Conversions | Actual Sales
 
 ## Regression Results
 
-The following shows the results of predictive model created by AWS ML
+The log results of the ML training can be found [here](/MLOutput.txt) 
 
-```
-final consolidation:
-18/11/28 11:17:46 INFO: 
-18/11/28 11:17:46 INFO: saved final learner:
-model-configuration: learning-rate=100.0
-learner-id=5314 model-convergence: negative-log-likelihood=3.855613e-01 (delta=1.000000e+00) is-converged=no
-learner-id=5314 active-features: updates=0000429370 min=0000006 max=0000006 mean=0000006 total-sum=0002576220
-active-features-quantiles: quantile-10=0000006 quantile-50=0000007 quantile-90=0000007
-learner-id=5314 model-status: model-size=204960 (0.20 MB) #params=2135 #pruning-calls=0000000005
-```
