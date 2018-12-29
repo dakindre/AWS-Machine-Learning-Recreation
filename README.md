@@ -31,7 +31,7 @@ The following diagram shows the general architecture used to create the models. 
 9. Data imported into Tableau for visualization and further calculations
 
 
-![alt text](/Images/GeneratingSalesMockMLFlow.png)
+![alt text](/Images/AWS_Data_Flow.png)
 
 
 ## Data Recreation
