@@ -1,4 +1,4 @@
-# Digital Traffic Effectivness for Dealerships 
+# Automotive Digital Traffic Effectiveness
 
 ### Business Case
 
@@ -38,10 +38,13 @@ The following diagram shows the general architecture used to create the models. 
 ## Data Recreation
 
 The mock data for training the model was created using the two scripts below:
+
 [Generating](/bdc_generating_data_generator.ipynb)
+
 [Managing](/bdc_managing_data_generator_training.ipynb)
 
 The batch prediction set of which the the report data is comprised is altered slightly both up and down for metrics to show enough variance that would simulate normal changes in dealerships. An example of this can be seen in modifying slight the mu and sigma of the normalized distribution in the sample file below:
+
 [Managing Sample](/bdc_managing_data_generator_altered.ipynb)
 
 
