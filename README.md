@@ -54,7 +54,7 @@ The batch prediction set of which the the report data is comprised is altered sl
 The log results of the ML training can be found [here](/MLOutput.txt) 
 
 ## Visualization
-In order to visualize the results of the scoring system a Tableau dashboard was created to see how the process works with mock data. A sample image is shown below and the full hosted report can be found on Tableau public here. 
+In order to visualize the results of the scoring system a Tableau dashboard was created to see how the process works with mock data. A sample image is shown below and the full hosted report can be found on Tableau public [here](https://public.tableau.com/profile/drew.dakin#!/vizhome/BDCDashboard/BDCDASHBOARD). 
 
 ![alt_text](/Images/DigitalTrafficDashboard.png)
 
